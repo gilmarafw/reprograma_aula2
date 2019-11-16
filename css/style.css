@@ -1,0 +1,29 @@
+.carousel-caption{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text-general{
+    margin-top: 15px;            
+}
+.display-4{
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.row{
+    margin-top: 20px;
+}
+.carousel-fade{
+    width: 75%;
+    margin: auto;
+}
+.card-img-top{
+    height: 75%;
+    width: 75%;
+    margin: auto;
+}
+.flex-column{
+    margin: auto;
+    background: #343a40!important;
+    color: whitesmoke;
+    justify-content: space-between;
+}
